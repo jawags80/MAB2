@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <Module>
-  <ModulePrefs title="hello world example" /> 
+  <ModulePrefs title="hello world example" category="tools" description="first gadget attempt" author_email="jasonawagner@gmail.com" scrolling="false" render_inline="optional" title_url="http://www.igoogleportal.com/" thumbnail="http://www.igoogleportal.com/gadget/img/weather-thm.png" height="350"/> 
   <Content type="html">
      <![CDATA[ 
        Hello, world!
